@@ -1,11 +1,11 @@
 {
   "FolderOrderSettings": [
+    {"name":"Ambiente","order":7,"path":"folders/Ambiente.yy",},
     {"name":"Anotações","order":6,"path":"folders/Anotações.yy",},
     {"name":"Conjuntos de tiles","order":1,"path":"folders/Conjuntos de tiles.yy",},
     {"name":"Fontes","order":3,"path":"folders/Fontes.yy",},
     {"name":"Objetos","order":4,"path":"folders/Objetos.yy",},
     {"name":"Sons","order":2,"path":"folders/Sons.yy",},
-    {"name":"Ambiente","order":7,"path":"folders/Ambiente.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_projetil","order":2,"path":"sprites/spr_projetil/spr_projetil.yy",},
