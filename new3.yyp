@@ -31,6 +31,8 @@
     {"id":{"name":"parente_asteroide","path":"objects/parente_asteroide/parente_asteroide.yy",},},
     {"id":{"name":"spr_projetil","path":"sprites/spr_projetil/spr_projetil.yy",},},
     {"id":{"name":"spr_asteroide_pequeno","path":"sprites/spr_asteroide_pequeno/spr_asteroide_pequeno.yy",},},
+    {"id":{"name":"spr_escudo","path":"sprites/spr_escudo/spr_escudo.yy",},},
+    {"id":{"name":"spr_tiro","path":"sprites/spr_tiro/spr_tiro.yy",},},
     {"id":{"name":"obj_nave","path":"objects/obj_nave/obj_nave.yy",},},
     {"id":{"name":"obj_projetil","path":"objects/obj_projetil/obj_projetil.yy",},},
     {"id":{"name":"obj_asteroide_pequeno","path":"objects/obj_asteroide_pequeno/obj_asteroide_pequeno.yy",},},

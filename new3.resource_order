@@ -12,6 +12,8 @@
     {"name":"parente_asteroide","order":5,"path":"objects/parente_asteroide/parente_asteroide.yy",},
     {"name":"spr_projetil","order":2,"path":"sprites/spr_projetil/spr_projetil.yy",},
     {"name":"spr_asteroide_pequeno","order":5,"path":"sprites/spr_asteroide_pequeno/spr_asteroide_pequeno.yy",},
+    {"name":"spr_escudo","order":6,"path":"sprites/spr_escudo/spr_escudo.yy",},
+    {"name":"spr_tiro","order":7,"path":"sprites/spr_tiro/spr_tiro.yy",},
     {"name":"obj_projetil","order":1,"path":"objects/obj_projetil/obj_projetil.yy",},
     {"name":"obj_asteroide_pequeno","order":4,"path":"objects/obj_asteroide_pequeno/obj_asteroide_pequeno.yy",},
     {"name":"obj_asteroide","order":2,"path":"objects/obj_asteroide/obj_asteroide.yy",},

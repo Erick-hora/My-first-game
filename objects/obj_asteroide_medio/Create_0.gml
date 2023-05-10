@@ -2,7 +2,7 @@
 //Inicializando o movimento do nosso asteroide
 randomize();
 
-rotac = random_range(09, 1.4);
+rotac = random_range(1, 1.5);
 speed = random_range(0.6, 1.3);
 direction = random_range(0, 359);
 
