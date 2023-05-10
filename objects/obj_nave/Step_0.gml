@@ -28,11 +28,12 @@ if keyboard_check(vk_up) {
 }
 
 if keyboard_check (vk_left) {
- direction += 5;	
+ direc = 5;  	
 } else if keyboard_check (vk_right) {
- direction -= 5;	
+ direc = - 5;	
+} else {
+	direc = lerp(direc, 0, 0.08);
 }
-
 if keyboard_check_pressed(vk_space) {
 var inst = instance_create_layer(x, y, "instances", obj_projetil);
 inst.speed = 10;
@@ -40,5 +41,6 @@ inst.direction = direction;
 inst.image_angle = direction;
 }
 
+direction += direc;
 move_wrap (true, true, 30); 
 image_angle = direction;
