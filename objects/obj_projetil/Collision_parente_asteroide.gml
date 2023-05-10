@@ -1,6 +1,7 @@
 /// @description Insert description here
+var _dano = dano;
 with (other) {
-vida -= 1;
+vida -= _dano;
 }
 
 instance_destroy();

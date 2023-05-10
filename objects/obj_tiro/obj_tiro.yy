@@ -1,11 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_projetil",
+  "name": "obj_tiro",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"parente_asteroide","path":"objects/parente_asteroide/parente_asteroide.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -30,9 +29,12 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_projetil",
-    "path": "sprites/spr_projetil/spr_projetil.yy",
+    "name": "spr_tiro",
+    "path": "sprites/spr_tiro/spr_tiro.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_asteroide_grande",
+    "path": "sprites/spr_asteroide_grande/spr_asteroide_grande.yy",
+  },
   "visible": true,
 }

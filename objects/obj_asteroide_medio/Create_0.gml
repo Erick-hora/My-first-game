@@ -4,7 +4,7 @@ randomize();
 
 rotac = random_range(1, 1.5);
 speed = random_range(0.6, 1.3);
-direction = random_range(0, 359);
+direction = random_range(0, 209);
 
 vida = 3 ;
 

@@ -4,3 +4,7 @@ direc = 5;
 vida = 5;
 
 alfa_add = 0;
+
+escudo = false;
+
+dano_nave = 1;

@@ -8,7 +8,7 @@ if keyboard_check(vk_up) {
  speed = -veloc;	
 } else {
 	sprite_index = spr_nave_parada
- speed = lerp(speed, 0, 0.09);	
+ speed = 0;
 }
 
 if keyboard_check (vk_left) {
@@ -16,15 +16,15 @@ if keyboard_check (vk_left) {
 } else if keyboard_check (vk_right) {
  direc = - 5;	
 } else {
-	direc = lerp(direc, 0, 0.08);
+	direc = 0;
 }
-
 
 if keyboard_check_pressed(vk_space) {
 var inst = instance_create_layer(x, y, "instances", obj_projetil);
 inst.speed = 10;
 inst.direction = direction;
 inst.image_angle = direction;
+inst.dano = dano_nave;
 }
 
 
