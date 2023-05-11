@@ -1,4 +1,4 @@
-/// @description Inserir descrição aqui
+ /// @description Inserir descrição aqui
  
 if keyboard_check(vk_up) {
 	sprite_index = spr_nave_movendo;
@@ -20,6 +20,7 @@ if keyboard_check (vk_left) {
 }
 
 if keyboard_check_pressed(vk_space) {
+	audio_play_sound(snd_tiro, 1, false);
 var inst = instance_create_layer(x, y, "instances", obj_projetil);
 inst.speed = 10;
 inst.direction = direction;
