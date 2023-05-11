@@ -1,4 +1,4 @@
-  /// @description Inserir descrição aqui
+   /// @description Inserir descrição aqui
 veloc = 3;
 direc = 5;
 vida = 5;
