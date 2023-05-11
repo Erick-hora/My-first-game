@@ -22,7 +22,9 @@
     {"name":"spr_asteroide_medio","order":4,"path":"sprites/spr_asteroide_medio/spr_asteroide_medio.yy",},
     {"name":"obj_tiro","order":7,"path":"objects/obj_tiro/obj_tiro.yy",},
     {"name":"spr_aura","order":8,"path":"sprites/spr_aura/spr_aura.yy",},
+    {"name":"obj_vida","order":9,"path":"objects/obj_vida/obj_vida.yy",},
     {"name":"spr_asteroide_grande","order":3,"path":"sprites/spr_asteroide_grande/spr_asteroide_grande.yy",},
+    {"name":"spr_vida","order":9,"path":"sprites/spr_vida/spr_vida.yy",},
     {"name":"spr_nave_movendo","order":1,"path":"sprites/spr_nave_movendo/spr_nave_movendo.yy",},
   ],
 }

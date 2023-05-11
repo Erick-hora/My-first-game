@@ -43,7 +43,9 @@
     {"id":{"name":"spr_asteroide_medio","path":"sprites/spr_asteroide_medio/spr_asteroide_medio.yy",},},
     {"id":{"name":"obj_tiro","path":"objects/obj_tiro/obj_tiro.yy",},},
     {"id":{"name":"spr_aura","path":"sprites/spr_aura/spr_aura.yy",},},
+    {"id":{"name":"obj_vida","path":"objects/obj_vida/obj_vida.yy",},},
     {"id":{"name":"spr_asteroide_grande","path":"sprites/spr_asteroide_grande/spr_asteroide_grande.yy",},},
+    {"id":{"name":"spr_vida","path":"sprites/spr_vida/spr_vida.yy",},},
     {"id":{"name":"spr_nave_movendo","path":"sprites/spr_nave_movendo/spr_nave_movendo.yy",},},
   ],
   "RoomOrderNodes": [
