@@ -12,6 +12,8 @@
     {"name":"inst_70928AE7","path":"rooms/jogo/jogo.yy",},
     {"name":"inst_59583C62","path":"rooms/jogo/jogo.yy",},
     {"name":"inst_57E1BCB7","path":"rooms/jogo/jogo.yy",},
+    {"name":"inst_6AD2B7C2","path":"rooms/jogo/jogo.yy",},
+    {"name":"inst_478F6A66","path":"rooms/jogo/jogo.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -21,6 +23,8 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_70928AE7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_asteroide","path":"objects/obj_asteroide/obj_asteroide.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":96.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_59583C62","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_asteroide","path":"objects/obj_asteroide/obj_asteroide.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":256.0,"y":64.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_57E1BCB7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_asteroide","path":"objects/obj_asteroide/obj_asteroide.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":384.0,"y":224.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6AD2B7C2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_asteroide_medio","path":"objects/obj_asteroide_medio/obj_asteroide_medio.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":416.0,"y":96.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_478F6A66","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_asteroide_medio","path":"objects/obj_asteroide_medio/obj_asteroide_medio.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":288.0,"y":320.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_2","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":24,"SerialiseWidth":43,"TileCompressedData":[
 -723,-2147483648,7,1,2,3,4,5,6,7,-35,-2147483648,8,8,9,10,11,12,13,14,15,-35,-2147483648,8,16,17,18,19,20,21,22,23,-35,-2147483648,8,24,25,26,27,28,29,30,31,

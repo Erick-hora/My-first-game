@@ -10,6 +10,8 @@
   ],
   "ResourceOrderSettings": [
     {"name":"ts_lua","order":1,"path":"tilesets/ts_lua/ts_lua.yy",},
+    {"name":"obj_dourado","order":12,"path":"objects/obj_dourado/obj_dourado.yy",},
+    {"name":"spr_dourado","order":14,"path":"sprites/spr_dourado/spr_dourado.yy",},
     {"name":"obj_asteroide_medio","order":3,"path":"objects/obj_asteroide_medio/obj_asteroide_medio.yy",},
     {"name":"spr_planeta","order":12,"path":"sprites/spr_planeta/spr_planeta.yy",},
     {"name":"spr_estrela","order":10,"path":"sprites/spr_estrela/spr_estrela.yy",},
@@ -31,6 +33,7 @@
     {"name":"spr_bonus","order":13,"path":"sprites/spr_bonus/spr_bonus.yy",},
     {"name":"final","order":1,"path":"rooms/final/final.yy",},
     {"name":"spr_asteroide_medio","order":4,"path":"sprites/spr_asteroide_medio/spr_asteroide_medio.yy",},
+    {"name":"obj_bonus","order":11,"path":"objects/obj_bonus/obj_bonus.yy",},
     {"name":"obj_tiro","order":7,"path":"objects/obj_tiro/obj_tiro.yy",},
     {"name":"spr_aura","order":8,"path":"sprites/spr_aura/spr_aura.yy",},
     {"name":"snd_asteroides","order":3,"path":"sounds/snd_asteroides/snd_asteroides.yy",},

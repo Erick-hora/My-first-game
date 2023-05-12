@@ -28,7 +28,9 @@
   },
   "resources": [
     {"id":{"name":"ts_lua","path":"tilesets/ts_lua/ts_lua.yy",},},
+    {"id":{"name":"obj_dourado","path":"objects/obj_dourado/obj_dourado.yy",},},
     {"id":{"name":"jogo","path":"rooms/jogo/jogo.yy",},},
+    {"id":{"name":"spr_dourado","path":"sprites/spr_dourado/spr_dourado.yy",},},
     {"id":{"name":"obj_asteroide_medio","path":"objects/obj_asteroide_medio/obj_asteroide_medio.yy",},},
     {"id":{"name":"spr_planeta","path":"sprites/spr_planeta/spr_planeta.yy",},},
     {"id":{"name":"spr_estrela","path":"sprites/spr_estrela/spr_estrela.yy",},},
@@ -54,6 +56,7 @@
     {"id":{"name":"final","path":"rooms/final/final.yy",},},
     {"id":{"name":"spr_nave_parada","path":"sprites/spr_nave_parada/spr_nave_parada.yy",},},
     {"id":{"name":"spr_asteroide_medio","path":"sprites/spr_asteroide_medio/spr_asteroide_medio.yy",},},
+    {"id":{"name":"obj_bonus","path":"objects/obj_bonus/obj_bonus.yy",},},
     {"id":{"name":"obj_tiro","path":"objects/obj_tiro/obj_tiro.yy",},},
     {"id":{"name":"spr_aura","path":"sprites/spr_aura/spr_aura.yy",},},
     {"id":{"name":"snd_asteroides","path":"sounds/snd_asteroides/snd_asteroides.yy",},},
