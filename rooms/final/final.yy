@@ -1,29 +1,15 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "sala",
+  "name": "final",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
-  "instanceCreationOrder": [
-    {"name":"inst_73A5CF45","path":"rooms/sala/sala.yy",},
-    {"name":"inst_3E613247","path":"rooms/sala/sala.yy",},
-    {"name":"inst_70928AE7","path":"rooms/sala/sala.yy",},
-    {"name":"inst_59583C62","path":"rooms/sala/sala.yy",},
-    {"name":"inst_57E1BCB7","path":"rooms/sala/sala.yy",},
-    {"name":"inst_C161FC8","path":"rooms/sala/sala.yy",},
-  ],
+  "instanceCreationOrder": [],
   "isDnd": false,
   "layers": [
-    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_73A5CF45","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_nave","path":"objects/obj_nave/obj_nave.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":192.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3E613247","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_asteroide","path":"objects/obj_asteroide/obj_asteroide.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":512.0,"y":352.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_70928AE7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_asteroide","path":"objects/obj_asteroide/obj_asteroide.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":96.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_59583C62","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_asteroide","path":"objects/obj_asteroide/obj_asteroide.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":256.0,"y":64.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_57E1BCB7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_asteroide","path":"objects/obj_asteroide/obj_asteroide.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":384.0,"y":224.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_C161FC8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_controle","path":"objects/obj_controle/obj_controle.yy",},"properties":[],"rotation":2.4966946,"scaleX":1.0,"scaleY":-1.0,"x":343.63614,"y":192.18224,},
-      ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
+    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_2","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":24,"SerialiseWidth":43,"TileCompressedData":[
 -723,-2147483648,7,1,2,3,4,5,6,7,-35,-2147483648,8,8,9,10,11,12,13,14,15,-35,-2147483648,8,16,17,18,19,20,21,22,23,-35,-2147483648,8,24,25,26,27,28,29,30,31,
 -35,-2147483648,8,32,33,34,35,36,37,38,39,-35,-2147483648,8,40,41,42,43,44,45,46,47,-35,-2147483648,8,48,49,50,51,52,53,54,55,-35,-2147483648,9,56,57,58,59,60,61,62,

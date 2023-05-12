@@ -28,7 +28,7 @@
   },
   "resources": [
     {"id":{"name":"ts_lua","path":"tilesets/ts_lua/ts_lua.yy",},},
-    {"id":{"name":"sala","path":"rooms/sala/sala.yy",},},
+    {"id":{"name":"jogo","path":"rooms/jogo/jogo.yy",},},
     {"id":{"name":"obj_asteroide_medio","path":"objects/obj_asteroide_medio/obj_asteroide_medio.yy",},},
     {"id":{"name":"spr_planeta","path":"sprites/spr_planeta/spr_planeta.yy",},},
     {"id":{"name":"spr_estrela","path":"sprites/spr_estrela/spr_estrela.yy",},},
@@ -49,6 +49,9 @@
     {"id":{"name":"obj_asteroide","path":"objects/obj_asteroide/obj_asteroide.yy",},},
     {"id":{"name":"obj_controle","path":"objects/obj_controle/obj_controle.yy",},},
     {"id":{"name":"snd_hit","path":"sounds/snd_hit/snd_hit.yy",},},
+    {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
+    {"id":{"name":"spr_bonus","path":"sprites/spr_bonus/spr_bonus.yy",},},
+    {"id":{"name":"final","path":"rooms/final/final.yy",},},
     {"id":{"name":"spr_nave_parada","path":"sprites/spr_nave_parada/spr_nave_parada.yy",},},
     {"id":{"name":"spr_asteroide_medio","path":"sprites/spr_asteroide_medio/spr_asteroide_medio.yy",},},
     {"id":{"name":"obj_tiro","path":"objects/obj_tiro/obj_tiro.yy",},},
@@ -60,7 +63,9 @@
     {"id":{"name":"spr_nave_movendo","path":"sprites/spr_nave_movendo/spr_nave_movendo.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"sala","path":"rooms/sala/sala.yy",},},
+    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
+    {"roomId":{"name":"jogo","path":"rooms/jogo/jogo.yy",},},
+    {"roomId":{"name":"final","path":"rooms/final/final.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
