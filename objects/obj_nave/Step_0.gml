@@ -18,7 +18,6 @@ if keyboard_check (vk_left) {
 } else {
 	direc = 0;
 }
-
 if keyboard_check_pressed(vk_space) {
 	audio_play_sound(snd_tiro, 1, false);
 var inst = instance_create_layer(x, y, "instances", obj_projetil);

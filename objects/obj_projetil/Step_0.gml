@@ -14,5 +14,7 @@ else if x>=room_width
 {
 instance_destroy();	
 }
+
+
 image_xscale = dano;
 image_yscale = dano;
