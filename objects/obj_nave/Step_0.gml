@@ -48,6 +48,6 @@ if vida <= 0 {
 	game_restart();
 }   
 
-if global.pont >= 100 {
+if global.pont >= 1000 {
 	room_goto(final);
 }
