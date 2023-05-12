@@ -5,6 +5,7 @@ var _c = make_color_rgb(231, 80, 87);
 var _largura = display_get_width();
 var _altura = display_get_height();
 
+draw_set_font(fnt_basico2);
 
 if room == Menu {
 	if alpha <= 0 { 

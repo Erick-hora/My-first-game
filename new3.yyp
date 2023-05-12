@@ -48,6 +48,7 @@
     {"id":{"name":"spr_tiro","path":"sprites/spr_tiro/spr_tiro.yy",},},
     {"id":{"name":"snd_tiro","path":"sounds/snd_tiro/snd_tiro.yy",},},
     {"id":{"name":"obj_asteroide_pequeno","path":"objects/obj_asteroide_pequeno/obj_asteroide_pequeno.yy",},},
+    {"id":{"name":"fnt_basico2","path":"fonts/fnt_basico2/fnt_basico2.yy",},},
     {"id":{"name":"obj_asteroide","path":"objects/obj_asteroide/obj_asteroide.yy",},},
     {"id":{"name":"obj_controle","path":"objects/obj_controle/obj_controle.yy",},},
     {"id":{"name":"snd_hit","path":"sounds/snd_hit/snd_hit.yy",},},

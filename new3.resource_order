@@ -26,6 +26,7 @@
     {"name":"obj_projetil","order":1,"path":"objects/obj_projetil/obj_projetil.yy",},
     {"name":"spr_tiro","order":6,"path":"sprites/spr_tiro/spr_tiro.yy",},
     {"name":"obj_asteroide_pequeno","order":4,"path":"objects/obj_asteroide_pequeno/obj_asteroide_pequeno.yy",},
+    {"name":"fnt_basico2","order":1,"path":"fonts/fnt_basico2/fnt_basico2.yy",},
     {"name":"obj_asteroide","order":2,"path":"objects/obj_asteroide/obj_asteroide.yy",},
     {"name":"obj_controle","order":6,"path":"objects/obj_controle/obj_controle.yy",},
     {"name":"snd_hit","order":2,"path":"sounds/snd_hit/snd_hit.yy",},
