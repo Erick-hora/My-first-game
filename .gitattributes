@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# GameMaker Files
+*.yy linguist-language=Game Maker Language
